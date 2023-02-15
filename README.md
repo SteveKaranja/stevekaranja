@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Karanja</h1>
 <h3 align="center">Web development | Data Analytics enthusiast.</h3>
-<h3 align="center"><a href="https://virtualoffice.co.ke" target="_blank">Virtual Office Point</a>, Nairobi.</h3>
+<h3 align="center"><a href="https://virtualoffice.co.ke" target="blank">Virtual Office Point</a>, Nairobi.</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/stevekaranja](github.com/stevekaranja)
 
