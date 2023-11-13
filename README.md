@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steve Karanja</h1>
+![steve linkedin banner](https://github.com/SteveKaranja/stevekaranja/assets/18524997/21746ed4-efb0-40d1-b870-bcd2e8d57dab)
+
 <h3 align="center">Web development | Data Analytics enthusiast.</h3>
 <h3 align="center"><a href="https://virtualoffice.co.ke" target="blank">Virtual Office Point</a>, Nairobi.</h3>
 
